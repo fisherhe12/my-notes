@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T10:07:12.947Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CGaWxrNWVfrchotQB6xz" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T10:08:02.150Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="L_yE5oK_XGFMCAbUjo5U" version="21.8.2" type="github">
   <diagram id="Z7njmaZwR_nDOWWaXtEk" name="Page-1">
     <mxGraphModel dx="896" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,8 +103,11 @@
         <mxCell id="-bgrrIVg6X7aR7JMS0Ay-9" value="Web SRM" style="swimlane;startSize=20;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;dashed=1;dashPattern=8 8;" parent="-bgrrIVg6X7aR7JMS0Ay-6" vertex="1">
           <mxGeometry x="420" width="200" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="arUTddWhJIKM2_lrUXiw-38" value="cloud mev" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/mixed_reality/Remote_Rendering.svg;" vertex="1" parent="-bgrrIVg6X7aR7JMS0Ay-9">
+        <mxCell id="arUTddWhJIKM2_lrUXiw-38" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/mixed_reality/Remote_Rendering.svg;" vertex="1" parent="-bgrrIVg6X7aR7JMS0Ay-9">
           <mxGeometry x="20" y="305" width="141.67" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="arUTddWhJIKM2_lrUXiw-75" value="cloud mev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-bgrrIVg6X7aR7JMS0Ay-9">
+          <mxGeometry x="61" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="arUTddWhJIKM2_lrUXiw-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.45;exitY=1.036;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="-bgrrIVg6X7aR7JMS0Ay-6" source="arUTddWhJIKM2_lrUXiw-38" target="arUTddWhJIKM2_lrUXiw-16">
           <mxGeometry relative="1" as="geometry">
